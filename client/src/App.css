@@ -1,0 +1,34 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+*{
+  text-align: center;
+  background-color: black;
+}
+
+.Scene{
+  margin-top: 25px;
+  padding: 15px;
+  height: 400px;
+  width: 800px;
+  border: 1px solid darkgrey;
+  color: white;
+}
+
+.Response{
+  margin-top: 25px;
+  padding: 15px;
+  height: 100px;
+  width: 800px;
+  border: 1px solid darkgrey;
+  color: white;
+}
+
+.Input{
+  margin-top: 25px;
+  background-color: white;
+  width: 800px;
+}
